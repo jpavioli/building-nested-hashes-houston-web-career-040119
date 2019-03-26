@@ -1,6 +1,6 @@
 def first_challenge
    epic_tragedy = {
-     montague: {},
-     captulet: {}
+     :montague => {},
+     :capulet => {}
    }
 end
